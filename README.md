@@ -20,7 +20,7 @@
 
 **FileDrop** is a modern desktop app that lets you send and receive files instantly across devices on the same local network — without needing internet, third-party servers, or configuration.
 
-Designed for privacy, built with performance in mind, and crafted in Rust for maximum reliability.
+Designed  privacy, built with performance in mind, and crafted in Rust for maximum reliability.
 
 ---
 
